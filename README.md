@@ -1,16 +1,25 @@
-# todo_app
+# Todo App (Variant 2)
 
-A new Flutter project.
+## Опис
+Todo додаток з локальним збереженням через SharedPreferences.
+Підтримує категорії, пріоритети, теги та статистику.
 
-## Getting Started
+## Реалізовані функції
+- [x] CRUD операції
+- [x] Фільтрація
+- [x] Сортування
+- [x] Статистика
+- [x] Batch delete
+- [x] Undo
+- [x] Автозбереження
 
-This project is a starting point for a Flutter application.
+## Технічні деталі
+- Flutter
+- shared_preferences
+- uuid
+- Singleton pattern
 
-A few resources to get you started if this is your first Flutter project:
+## Скріншоти
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Відео демонстрація
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
