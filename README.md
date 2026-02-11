@@ -33,7 +33,8 @@ Todo додаток з локальним збереженням через Shar
 ![Статистика задач](assets/screenshot3.png)
 
 ## Відео демонстрація
-![Відео огляд](assets/pr-9.1.mp4)
+![Відео огляд](https://drive.google.com/file/d/1I3D-Oliv6ys13aP-yvt5AQ-73LuTm2vL/view?usp=sharing)
+
 
 
 
